@@ -7,6 +7,7 @@ The second one (Agegiver AE) is a version where I added more features to make it
 The only requirement are:
 
 Atleast 249 Bytes (Agegiver) or 4,15 KB (Agegiver AE) (if you are conserned about this, are you using an Apple ][e or something?)
+
 Python 3.11 or better
 
 That's it :)
